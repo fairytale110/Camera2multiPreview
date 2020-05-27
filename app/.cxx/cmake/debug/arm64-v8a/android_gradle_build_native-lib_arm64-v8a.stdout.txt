@@ -1,0 +1,2 @@
+ninja: Entering directory `F:\Ljie_pf\GithubResponse\Camera2GetPreview\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

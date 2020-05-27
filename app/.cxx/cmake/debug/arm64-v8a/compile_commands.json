@@ -1,0 +1,13 @@
+[
+{
+  "directory": "F:/Ljie_pf/GithubResponse/Camera2GetPreview/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "F:\\Ljie_pf\\Android-sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=F:/Ljie_pf/Android-sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Ljie_pf/Android-sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\com_afei_camera2getpreview_util_NativeLibrary.cpp.o -c F:\\Ljie_pf\\GithubResponse\\Camera2GetPreview\\app\\src\\main\\cpp\\src\\com_afei_camera2getpreview_util_NativeLibrary.cpp",
+  "file": "F:/Ljie_pf/GithubResponse/Camera2GetPreview/app/src/main/cpp/src/com_afei_camera2getpreview_util_NativeLibrary.cpp"
+},
+
+{
+  "directory": "F:/Ljie_pf/GithubResponse/Camera2GetPreview/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "F:\\Ljie_pf\\Android-sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=F:/Ljie_pf/Android-sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Ljie_pf/Android-sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\src\\ImageUtil.cpp.o -c F:\\Ljie_pf\\GithubResponse\\Camera2GetPreview\\app\\src\\main\\cpp\\src\\ImageUtil.cpp",
+  "file": "F:/Ljie_pf/GithubResponse/Camera2GetPreview/app/src/main/cpp/src/ImageUtil.cpp"
+}
+]

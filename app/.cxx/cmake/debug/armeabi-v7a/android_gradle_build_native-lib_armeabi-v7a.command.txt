@@ -1,0 +1,7 @@
+Executable : F:\Ljie_pf\Android-sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+F:\Ljie_pf\GithubResponse\Camera2GetPreview\app\.cxx\cmake\debug\armeabi-v7a
+native-lib
+jvmArgs : 
+
